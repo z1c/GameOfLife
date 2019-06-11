@@ -1,0 +1,462 @@
+src/application/Main.java:12:	Avoid short class names like Main
+src/application/Main.java:12:	Avoid short class names like Main
+src/application/Main.java:12:	Classes implementing Serializable should set a serialVersionUID
+src/application/Main.java:12:	Classes implementing Serializable should set a serialVersionUID
+src/application/Main.java:12:	Header comments are required
+src/application/Main.java:12:	Header comments are required
+src/application/Main.java:12:	The class 'Main' has a Modified Cyclomatic Complexity of 4 (Highest = 10).
+src/application/Main.java:12:	The class 'Main' has a Modified Cyclomatic Complexity of 4 (Highest = 10).
+src/application/Main.java:12:	The class 'Main' has a Standard Cyclomatic Complexity of 4 (Highest = 10).
+src/application/Main.java:12:	The class 'Main' has a Standard Cyclomatic Complexity of 4 (Highest = 10).
+src/application/Main.java:14:	Field comments are required
+src/application/Main.java:14:	Field comments are required
+src/application/Main.java:14:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/application/Main.java:14:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/application/Main.java:15:	Avoid variables with short names like p
+src/application/Main.java:15:	Avoid variables with short names like p
+src/application/Main.java:15:	Field comments are required
+src/application/Main.java:15:	Field comments are required
+src/application/Main.java:15:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/application/Main.java:15:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/application/Main.java:15:	Perhaps 'p' could be replaced by a local variable.
+src/application/Main.java:15:	Perhaps 'p' could be replaced by a local variable.
+src/application/Main.java:16:	Avoid variables with short names like p1
+src/application/Main.java:16:	Avoid variables with short names like p1
+src/application/Main.java:16:	Field comments are required
+src/application/Main.java:16:	Field comments are required
+src/application/Main.java:16:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/application/Main.java:16:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/application/Main.java:17:	Avoid variables with short names like p2
+src/application/Main.java:17:	Avoid variables with short names like p2
+src/application/Main.java:17:	Field comments are required
+src/application/Main.java:17:	Field comments are required
+src/application/Main.java:17:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/application/Main.java:17:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/application/Main.java:17:	Perhaps 'p2' could be replaced by a local variable.
+src/application/Main.java:17:	Perhaps 'p2' could be replaced by a local variable.
+src/application/Main.java:18:	Avoid variables with short names like p3
+src/application/Main.java:18:	Avoid variables with short names like p3
+src/application/Main.java:18:	Field comments are required
+src/application/Main.java:18:	Field comments are required
+src/application/Main.java:18:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/application/Main.java:18:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/application/Main.java:18:	Perhaps 'p3' could be replaced by a local variable.
+src/application/Main.java:18:	Perhaps 'p3' could be replaced by a local variable.
+src/application/Main.java:19:	Avoid variables with short names like c
+src/application/Main.java:19:	Avoid variables with short names like c
+src/application/Main.java:19:	Field comments are required
+src/application/Main.java:19:	Field comments are required
+src/application/Main.java:19:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/application/Main.java:19:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/application/Main.java:19:	Private field 'c' could be made final; it is only initialized in the declaration or constructor.
+src/application/Main.java:19:	Private field 'c' could be made final; it is only initialized in the declaration or constructor.
+src/application/Main.java:20:	Field comments are required
+src/application/Main.java:20:	Field comments are required
+src/application/Main.java:20:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/application/Main.java:20:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/application/Main.java:21:	Field comments are required
+src/application/Main.java:21:	Field comments are required
+src/application/Main.java:21:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/application/Main.java:21:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/application/Main.java:22:	Field comments are required
+src/application/Main.java:22:	Field comments are required
+src/application/Main.java:22:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/application/Main.java:22:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/application/Main.java:24:	Avoid using redundant field initializer for 'generation'
+src/application/Main.java:24:	Avoid using redundant field initializer for 'generation'
+src/application/Main.java:24:	Field comments are required
+src/application/Main.java:24:	Field comments are required
+src/application/Main.java:24:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/application/Main.java:24:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/application/Main.java:26:	Parameter 'title' is not assigned and could be declared final
+src/application/Main.java:26:	Parameter 'title' is not assigned and could be declared final
+src/application/Main.java:26:	Public method and constructor comments are required
+src/application/Main.java:26:	Public method and constructor comments are required
+src/application/Main.java:34:	Public method and constructor comments are required
+src/application/Main.java:34:	Public method and constructor comments are required
+src/application/Main.java:34:	The method 'initGUI' has a Modified Cyclomatic Complexity of 10.
+src/application/Main.java:34:	The method 'initGUI' has a Modified Cyclomatic Complexity of 10.
+src/application/Main.java:34:	The method 'initGUI' has a Standard Cyclomatic Complexity of 10.
+src/application/Main.java:34:	The method 'initGUI' has a Standard Cyclomatic Complexity of 10.
+src/application/Main.java:41:	Local variable 'label' could be declared final
+src/application/Main.java:41:	Local variable 'label' could be declared final
+src/application/Main.java:42:	Local variable 'tfRow' could be declared final
+src/application/Main.java:42:	Local variable 'tfRow' could be declared final
+src/application/Main.java:44:	Local variable 'label1' could be declared final
+src/application/Main.java:44:	Local variable 'label1' could be declared final
+src/application/Main.java:45:	Local variable 'tfCol' could be declared final
+src/application/Main.java:45:	Local variable 'tfCol' could be declared final
+src/application/Main.java:47:	Local variable 'btSure' could be declared final
+src/application/Main.java:47:	Local variable 'btSure' could be declared final
+src/application/Main.java:63:	Avoid variables with short names like e
+src/application/Main.java:63:	Avoid variables with short names like e
+src/application/Main.java:63:	Parameter 'e' is not assigned and could be declared final
+src/application/Main.java:63:	Parameter 'e' is not assigned and could be declared final
+src/application/Main.java:63:	Public method and constructor comments are required
+src/application/Main.java:63:	Public method and constructor comments are required
+src/application/Main.java:63:	The method 'actionPerformed(ActionEvent)' is missing an @Override annotation.
+src/application/Main.java:63:	The method 'actionPerformed(ActionEvent)' is missing an @Override annotation.
+src/application/Main.java:65:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/application/Main.java:65:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/application/Main.java:66:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/application/Main.java:66:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/application/Main.java:68:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/application/Main.java:68:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/application/Main.java:68:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/application/Main.java:68:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/application/Main.java:68:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/application/Main.java:68:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/application/Main.java:69:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/application/Main.java:69:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/application/Main.java:69:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/application/Main.java:69:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/application/Main.java:69:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/application/Main.java:69:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/application/Main.java:70:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/application/Main.java:70:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/application/Main.java:71:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/application/Main.java:71:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/application/Main.java:72:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/application/Main.java:72:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/application/Main.java:73:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/application/Main.java:73:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/application/Main.java:74:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/application/Main.java:74:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/application/Main.java:75:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/application/Main.java:75:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/application/Main.java:76:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/application/Main.java:76:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/application/Main.java:77:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/application/Main.java:77:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/application/Main.java:78:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/application/Main.java:78:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/application/Main.java:78:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/application/Main.java:78:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/application/Main.java:80:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/application/Main.java:80:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/application/Main.java:81:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/application/Main.java:81:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/application/Main.java:81:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/application/Main.java:81:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/application/Main.java:86:	Local variable 'timer' could be declared final
+src/application/Main.java:86:	Local variable 'timer' could be declared final
+src/application/Main.java:90:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/application/Main.java:90:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/application/Main.java:90:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/application/Main.java:90:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/application/Main.java:91:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/application/Main.java:91:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/application/Main.java:92:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/application/Main.java:92:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/application/Main.java:93:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/application/Main.java:93:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/application/Main.java:94:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/application/Main.java:94:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/application/Main.java:95:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/application/Main.java:95:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/application/Main.java:96:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/application/Main.java:96:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/application/Main.java:99:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/application/Main.java:99:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/application/Main.java:113:	Parameter 'args' is not assigned and could be declared final
+src/application/Main.java:113:	Parameter 'args' is not assigned and could be declared final
+src/application/Main.java:113:	Public method and constructor comments are required
+src/application/Main.java:113:	Public method and constructor comments are required
+src/application/Main.java:114:	Local variable 'main' could be declared final
+src/application/Main.java:114:	Local variable 'main' could be declared final
+src/data/CellArray.java:3:	Header comments are required
+src/data/CellArray.java:3:	Header comments are required
+src/data/CellArray.java:3:	The class 'CellArray' is suspected to be a Data Class (WOC=28.571%, NOPA=0, NOAM=4, WMC=15)
+src/data/CellArray.java:3:	The class 'CellArray' is suspected to be a Data Class (WOC=28.571%, NOPA=0, NOAM=4, WMC=15)
+src/data/CellArray.java:5:	Field comments are required
+src/data/CellArray.java:5:	Field comments are required
+src/data/CellArray.java:5:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/data/CellArray.java:5:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/data/CellArray.java:5:	It is somewhat confusing to have a field name matching the declaring class name
+src/data/CellArray.java:5:	It is somewhat confusing to have a field name matching the declaring class name
+src/data/CellArray.java:6:	Field comments are required
+src/data/CellArray.java:6:	Field comments are required
+src/data/CellArray.java:7:	Field comments are required
+src/data/CellArray.java:7:	Field comments are required
+src/data/CellArray.java:9:	Parameter 'col' is not assigned and could be declared final
+src/data/CellArray.java:9:	Parameter 'col' is not assigned and could be declared final
+src/data/CellArray.java:9:	Parameter 'row' is not assigned and could be declared final
+src/data/CellArray.java:9:	Parameter 'row' is not assigned and could be declared final
+src/data/CellArray.java:9:	Public method and constructor comments are required
+src/data/CellArray.java:9:	Public method and constructor comments are required
+src/data/CellArray.java:19:	Parameter 'row' is not assigned and could be declared final
+src/data/CellArray.java:19:	Parameter 'row' is not assigned and could be declared final
+src/data/CellArray.java:27:	Parameter 'col' is not assigned and could be declared final
+src/data/CellArray.java:27:	Parameter 'col' is not assigned and could be declared final
+src/data/CellArray.java:31:	Avoid variables with short names like x
+src/data/CellArray.java:31:	Avoid variables with short names like x
+src/data/CellArray.java:31:	Avoid variables with short names like y
+src/data/CellArray.java:31:	Avoid variables with short names like y
+src/data/CellArray.java:31:	Parameter 'x' is not assigned and could be declared final
+src/data/CellArray.java:31:	Parameter 'x' is not assigned and could be declared final
+src/data/CellArray.java:31:	Parameter 'y' is not assigned and could be declared final
+src/data/CellArray.java:31:	Parameter 'y' is not assigned and could be declared final
+src/data/CellArray.java:31:	Public method and constructor comments are required
+src/data/CellArray.java:31:	Public method and constructor comments are required
+src/data/CellArray.java:32:	Avoid using if statements without curly braces
+src/data/CellArray.java:32:	Avoid using if statements without curly braces
+src/data/CellArray.java:33:	A method should have only one exit point, and that should be the last statement in the method
+src/data/CellArray.java:33:	A method should have only one exit point, and that should be the last statement in the method
+src/data/CellArray.java:33:	This statement should have braces
+src/data/CellArray.java:33:	This statement should have braces
+src/data/CellArray.java:36:	Avoid variables with short names like x
+src/data/CellArray.java:36:	Avoid variables with short names like x
+src/data/CellArray.java:36:	Avoid variables with short names like y
+src/data/CellArray.java:36:	Avoid variables with short names like y
+src/data/CellArray.java:36:	Parameter 'cell' is not assigned and could be declared final
+src/data/CellArray.java:36:	Parameter 'cell' is not assigned and could be declared final
+src/data/CellArray.java:36:	Parameter 'x' is not assigned and could be declared final
+src/data/CellArray.java:36:	Parameter 'x' is not assigned and could be declared final
+src/data/CellArray.java:36:	Parameter 'y' is not assigned and could be declared final
+src/data/CellArray.java:36:	Parameter 'y' is not assigned and could be declared final
+src/data/CellArray.java:36:	Public method and constructor comments are required
+src/data/CellArray.java:36:	Public method and constructor comments are required
+src/data/CellArray.java:37:	Avoid using if statements without curly braces
+src/data/CellArray.java:37:	Avoid using if statements without curly braces
+src/data/CellArray.java:38:	This statement should have braces
+src/data/CellArray.java:38:	This statement should have braces
+src/data/CellArrayTest.java:5:	Avoid unused imports such as 'org.junit.jupiter.api.AfterAll'
+src/data/CellArrayTest.java:5:	Avoid unused imports such as 'org.junit.jupiter.api.AfterAll'
+src/data/CellArrayTest.java:6:	Avoid unused imports such as 'org.junit.jupiter.api.AfterEach'
+src/data/CellArrayTest.java:6:	Avoid unused imports such as 'org.junit.jupiter.api.AfterEach'
+src/data/CellArrayTest.java:7:	Avoid unused imports such as 'org.junit.jupiter.api.BeforeAll'
+src/data/CellArrayTest.java:7:	Avoid unused imports such as 'org.junit.jupiter.api.BeforeAll'
+src/data/CellArrayTest.java:8:	Avoid unused imports such as 'org.junit.jupiter.api.BeforeEach'
+src/data/CellArrayTest.java:8:	Avoid unused imports such as 'org.junit.jupiter.api.BeforeEach'
+src/data/CellArrayTest.java:11:	Each class should declare at least one constructor
+src/data/CellArrayTest.java:11:	Each class should declare at least one constructor
+src/data/CellArrayTest.java:11:	Header comments are required
+src/data/CellArrayTest.java:11:	Header comments are required
+src/data/CellArrayTest.java:12:	Field comments are required
+src/data/CellArrayTest.java:12:	Field comments are required
+src/data/CellArrayTest.java:12:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/data/CellArrayTest.java:12:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/data/CellArrayTest.java:12:	To avoid mistakes add a comment at the beginning of the cells field if you want a default access modifier
+src/data/CellArrayTest.java:12:	To avoid mistakes add a comment at the beginning of the cells field if you want a default access modifier
+src/data/CellArrayTest.java:12:	Use explicit scoping instead of the default package private level
+src/data/CellArrayTest.java:12:	Use explicit scoping instead of the default package private level
+src/data/CellArrayTest.java:14:	Use explicit scoping instead of the default package private level
+src/data/CellArrayTest.java:14:	Use explicit scoping instead of the default package private level
+src/data/CellArrayTest.java:15:	To avoid mistakes add a comment at the beginning of the testGetCell method if you want a default access modifier
+src/data/CellArrayTest.java:15:	To avoid mistakes add a comment at the beginning of the testGetCell method if you want a default access modifier
+src/data/CellArrayTest.java:15:	Unit tests should not contain more than 1 assert(s).
+src/data/CellArrayTest.java:15:	Unit tests should not contain more than 1 assert(s).
+src/data/CellArrayTest.java:22:	JUnit assertions should include a message
+src/data/CellArrayTest.java:22:	JUnit assertions should include a message
+src/data/CellArrayTest.java:24:	JUnit assertions should include a message
+src/data/CellArrayTest.java:24:	JUnit assertions should include a message
+src/data/CellArrayTest.java:26:	Use explicit scoping instead of the default package private level
+src/data/CellArrayTest.java:26:	Use explicit scoping instead of the default package private level
+src/data/CellArrayTest.java:27:	To avoid mistakes add a comment at the beginning of the testSetCell method if you want a default access modifier
+src/data/CellArrayTest.java:27:	To avoid mistakes add a comment at the beginning of the testSetCell method if you want a default access modifier
+src/data/CellArrayTest.java:32:	JUnit assertions should include a message
+src/data/CellArrayTest.java:32:	JUnit assertions should include a message
+src/data/CellState.java:3:	Enum comments are required
+src/data/CellState.java:3:	Enum comments are required
+src/data/CellState.java:5:	Field comments are required
+src/data/CellState.java:5:	Field comments are required
+src/data/CellState.java:7:	Parameter 'value' is not assigned and could be declared final
+src/data/CellState.java:7:	Parameter 'value' is not assigned and could be declared final
+src/service/Service.java:8:	All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/service/Service.java:8:	All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/service/Service.java:8:	Header comments are required
+src/service/Service.java:8:	Header comments are required
+src/service/Service.java:8:	The utility class name 'Service' doesn't match '[A-Z][a-zA-Z0-9]+(Utils?|Helper)'
+src/service/Service.java:8:	The utility class name 'Service' doesn't match '[A-Z][a-zA-Z0-9]+(Utils?|Helper)'
+src/service/Service.java:9:	Field comments are required
+src/service/Service.java:9:	Field comments are required
+src/service/Service.java:11:	Parameter 'col' is not assigned and could be declared final
+src/service/Service.java:11:	Parameter 'col' is not assigned and could be declared final
+src/service/Service.java:11:	Parameter 'row' is not assigned and could be declared final
+src/service/Service.java:11:	Parameter 'row' is not assigned and could be declared final
+src/service/Service.java:11:	Public method and constructor comments are required
+src/service/Service.java:11:	Public method and constructor comments are required
+src/service/Service.java:12:	Local variable 'cells' could be declared final
+src/service/Service.java:12:	Local variable 'cells' could be declared final
+src/service/Service.java:16:	Avoid instantiating new objects inside loops
+src/service/Service.java:16:	Avoid instantiating new objects inside loops
+src/service/Service.java:16:	Avoid variables with short names like r
+src/service/Service.java:16:	Avoid variables with short names like r
+src/service/Service.java:16:	Local variable 'r' could be declared final
+src/service/Service.java:16:	Local variable 'r' could be declared final
+src/service/Service.java:17:	Avoid variables with short names like a
+src/service/Service.java:17:	Avoid variables with short names like a
+src/service/Service.java:17:	Local variable 'a' could be declared final
+src/service/Service.java:17:	Local variable 'a' could be declared final
+src/service/Service.java:18:	Avoid using Literals in Conditional Statements
+src/service/Service.java:18:	Avoid using Literals in Conditional Statements
+src/service/Service.java:19:	Potential violation of Law of Demeter (static property access)
+src/service/Service.java:19:	Potential violation of Law of Demeter (static property access)
+src/service/Service.java:22:	Potential violation of Law of Demeter (static property access)
+src/service/Service.java:22:	Potential violation of Law of Demeter (static property access)
+src/service/Service.java:29:	Parameter 'cells' is not assigned and could be declared final
+src/service/Service.java:29:	Parameter 'cells' is not assigned and could be declared final
+src/service/Service.java:29:	Public method and constructor comments are required
+src/service/Service.java:29:	Public method and constructor comments are required
+src/service/Service.java:30:	Local variable 'nextCells' could be declared final
+src/service/Service.java:30:	Local variable 'nextCells' could be declared final
+src/service/Service.java:33:	Local variable 'count' could be declared final
+src/service/Service.java:33:	Local variable 'count' could be declared final
+src/service/Service.java:35:	Avoid using Literals in Conditional Statements
+src/service/Service.java:35:	Avoid using Literals in Conditional Statements
+src/service/Service.java:36:	Potential violation of Law of Demeter (static property access)
+src/service/Service.java:36:	Potential violation of Law of Demeter (static property access)
+src/service/Service.java:38:	Potential violation of Law of Demeter (static property access)
+src/service/Service.java:38:	Potential violation of Law of Demeter (static property access)
+src/service/Service.java:39:	Potential violation of Law of Demeter (static property access)
+src/service/Service.java:39:	Potential violation of Law of Demeter (static property access)
+src/service/Service.java:42:	Potential violation of Law of Demeter (static property access)
+src/service/Service.java:42:	Potential violation of Law of Demeter (static property access)
+src/service/Service.java:49:	Avoid variables with short names like x
+src/service/Service.java:49:	Avoid variables with short names like x
+src/service/Service.java:49:	Avoid variables with short names like y
+src/service/Service.java:49:	Avoid variables with short names like y
+src/service/Service.java:49:	Parameter 'cells' is not assigned and could be declared final
+src/service/Service.java:49:	Parameter 'cells' is not assigned and could be declared final
+src/service/Service.java:49:	Parameter 'x' is not assigned and could be declared final
+src/service/Service.java:49:	Parameter 'x' is not assigned and could be declared final
+src/service/Service.java:49:	Parameter 'y' is not assigned and could be declared final
+src/service/Service.java:49:	Parameter 'y' is not assigned and could be declared final
+src/service/Service.java:49:	Public method and constructor comments are required
+src/service/Service.java:49:	Public method and constructor comments are required
+src/service/Service.java:50:	Found 'DD'-anomaly for variable 'count' (lines '50'-'55').
+src/service/Service.java:50:	Found 'DD'-anomaly for variable 'count' (lines '50'-'55').
+src/service/Service.java:50:	Found 'DD'-anomaly for variable 'count' (lines '50'-'59').
+src/service/Service.java:50:	Found 'DD'-anomaly for variable 'count' (lines '50'-'59').
+src/service/Service.java:51:	Avoid variables with short names like i
+src/service/Service.java:51:	Avoid variables with short names like i
+src/service/Service.java:51:	Avoid variables with short names like j
+src/service/Service.java:51:	Avoid variables with short names like j
+src/service/Service.java:51:	Use one line for each declaration, it enhances code readability.
+src/service/Service.java:51:	Use one line for each declaration, it enhances code readability.
+src/service/Service.java:54:	Avoid using if statements without curly braces
+src/service/Service.java:54:	Avoid using if statements without curly braces
+src/service/Service.java:54:	Potential violation of Law of Demeter (method chain calls)
+src/service/Service.java:54:	Potential violation of Law of Demeter (method chain calls)
+src/service/Service.java:54:	Potential violation of Law of Demeter (method chain calls)
+src/service/Service.java:54:	Potential violation of Law of Demeter (method chain calls)
+src/service/Service.java:54:	Potential violation of Law of Demeter (static property access)
+src/service/Service.java:54:	Potential violation of Law of Demeter (static property access)
+src/service/Service.java:55:	Found 'DD'-anomaly for variable 'count' (lines '55'-'55').
+src/service/Service.java:55:	Found 'DD'-anomaly for variable 'count' (lines '55'-'55').
+src/service/Service.java:55:	Found 'DD'-anomaly for variable 'count' (lines '55'-'59').
+src/service/Service.java:55:	Found 'DD'-anomaly for variable 'count' (lines '55'-'59').
+src/service/Service.java:55:	This statement should have braces
+src/service/Service.java:55:	This statement should have braces
+src/service/Service.java:58:	Avoid using if statements without curly braces
+src/service/Service.java:58:	Avoid using if statements without curly braces
+src/service/Service.java:58:	Potential violation of Law of Demeter (static property access)
+src/service/Service.java:58:	Potential violation of Law of Demeter (static property access)
+src/service/Service.java:59:	This statement should have braces
+src/service/Service.java:59:	This statement should have braces
+src/service/ServiceTest.java:5:	Avoid unused imports such as 'org.junit.jupiter.api.AfterAll'
+src/service/ServiceTest.java:5:	Avoid unused imports such as 'org.junit.jupiter.api.AfterAll'
+src/service/ServiceTest.java:6:	Avoid unused imports such as 'org.junit.jupiter.api.AfterEach'
+src/service/ServiceTest.java:6:	Avoid unused imports such as 'org.junit.jupiter.api.AfterEach'
+src/service/ServiceTest.java:7:	Avoid unused imports such as 'org.junit.jupiter.api.BeforeAll'
+src/service/ServiceTest.java:7:	Avoid unused imports such as 'org.junit.jupiter.api.BeforeAll'
+src/service/ServiceTest.java:8:	Avoid unused imports such as 'org.junit.jupiter.api.BeforeEach'
+src/service/ServiceTest.java:8:	Avoid unused imports such as 'org.junit.jupiter.api.BeforeEach'
+src/service/ServiceTest.java:13:	Each class should declare at least one constructor
+src/service/ServiceTest.java:13:	Each class should declare at least one constructor
+src/service/ServiceTest.java:13:	Header comments are required
+src/service/ServiceTest.java:13:	Header comments are required
+src/service/ServiceTest.java:13:	The class 'ServiceTest' has a Modified Cyclomatic Complexity of 6 (Highest = 13).
+src/service/ServiceTest.java:13:	The class 'ServiceTest' has a Modified Cyclomatic Complexity of 6 (Highest = 13).
+src/service/ServiceTest.java:13:	The class 'ServiceTest' has a Standard Cyclomatic Complexity of 6 (Highest = 13).
+src/service/ServiceTest.java:13:	The class 'ServiceTest' has a Standard Cyclomatic Complexity of 6 (Highest = 13).
+src/service/ServiceTest.java:15:	Use explicit scoping instead of the default package private level
+src/service/ServiceTest.java:15:	Use explicit scoping instead of the default package private level
+src/service/ServiceTest.java:16:	Document empty method body
+src/service/ServiceTest.java:16:	Document empty method body
+src/service/ServiceTest.java:16:	JUnit tests should include assert() or fail()
+src/service/ServiceTest.java:16:	JUnit tests should include assert() or fail()
+src/service/ServiceTest.java:16:	To avoid mistakes add a comment at the beginning of the testInitMap method if you want a default access modifier
+src/service/ServiceTest.java:16:	To avoid mistakes add a comment at the beginning of the testInitMap method if you want a default access modifier
+src/service/ServiceTest.java:20:	Use explicit scoping instead of the default package private level
+src/service/ServiceTest.java:20:	Use explicit scoping instead of the default package private level
+src/service/ServiceTest.java:21:	The method 'testGenerate' has a Modified Cyclomatic Complexity of 13.
+src/service/ServiceTest.java:21:	The method 'testGenerate' has a Modified Cyclomatic Complexity of 13.
+src/service/ServiceTest.java:21:	The method 'testGenerate' has a Standard Cyclomatic Complexity of 13.
+src/service/ServiceTest.java:21:	The method 'testGenerate' has a Standard Cyclomatic Complexity of 13.
+src/service/ServiceTest.java:21:	The method 'testGenerate()' has a cyclomatic complexity of 13.
+src/service/ServiceTest.java:21:	The method 'testGenerate()' has a cyclomatic complexity of 13.
+src/service/ServiceTest.java:21:	The method 'testGenerate()' has an NPath complexity of 432
+src/service/ServiceTest.java:21:	The method 'testGenerate()' has an NPath complexity of 432
+src/service/ServiceTest.java:21:	To avoid mistakes add a comment at the beginning of the testGenerate method if you want a default access modifier
+src/service/ServiceTest.java:21:	To avoid mistakes add a comment at the beginning of the testGenerate method if you want a default access modifier
+src/service/ServiceTest.java:21:	Unit tests should not contain more than 1 assert(s).
+src/service/ServiceTest.java:21:	Unit tests should not contain more than 1 assert(s).
+src/service/ServiceTest.java:26:	Found 'DD'-anomaly for variable 'testCell' (lines '26'-'32').
+src/service/ServiceTest.java:26:	Found 'DD'-anomaly for variable 'testCell' (lines '26'-'32').
+src/service/ServiceTest.java:27:	Avoid variables with short names like i
+src/service/ServiceTest.java:27:	Avoid variables with short names like i
+src/service/ServiceTest.java:27:	Avoid variables with short names like j
+src/service/ServiceTest.java:27:	Avoid variables with short names like j
+src/service/ServiceTest.java:27:	Use one line for each declaration, it enhances code readability.
+src/service/ServiceTest.java:27:	Use one line for each declaration, it enhances code readability.
+src/service/ServiceTest.java:32:	Found 'DD'-anomaly for variable 'testCell' (lines '32'-'32').
+src/service/ServiceTest.java:32:	Found 'DD'-anomaly for variable 'testCell' (lines '32'-'32').
+src/service/ServiceTest.java:32:	Found 'DD'-anomaly for variable 'testCell' (lines '32'-'67').
+src/service/ServiceTest.java:32:	Found 'DD'-anomaly for variable 'testCell' (lines '32'-'67').
+src/service/ServiceTest.java:38:	Found 'DD'-anomaly for variable 'flag' (lines '38'-'48').
+src/service/ServiceTest.java:38:	Found 'DD'-anomaly for variable 'flag' (lines '38'-'48').
+src/service/ServiceTest.java:53:	Avoid unnecessary comparisons in boolean expressions
+src/service/ServiceTest.java:53:	Avoid unnecessary comparisons in boolean expressions
+src/service/ServiceTest.java:53:	JUnit assertions should include a message
+src/service/ServiceTest.java:53:	JUnit assertions should include a message
+src/service/ServiceTest.java:53:	Use assertSame(x, y) instead of assertTrue(x==y), or assertNotSame(x,y) vs assertFalse(x==y)
+src/service/ServiceTest.java:53:	Use assertSame(x, y) instead of assertTrue(x==y), or assertNotSame(x,y) vs assertFalse(x==y)
+src/service/ServiceTest.java:61:	Potential violation of Law of Demeter (object not created locally)
+src/service/ServiceTest.java:61:	Potential violation of Law of Demeter (object not created locally)
+src/service/ServiceTest.java:62:	Potential violation of Law of Demeter (object not created locally)
+src/service/ServiceTest.java:62:	Potential violation of Law of Demeter (object not created locally)
+src/service/ServiceTest.java:63:	Potential violation of Law of Demeter (object not created locally)
+src/service/ServiceTest.java:63:	Potential violation of Law of Demeter (object not created locally)
+src/service/ServiceTest.java:64:	Potential violation of Law of Demeter (object not created locally)
+src/service/ServiceTest.java:64:	Potential violation of Law of Demeter (object not created locally)
+src/service/ServiceTest.java:67:	Found 'DD'-anomaly for variable 'testCell' (lines '67'-'68').
+src/service/ServiceTest.java:67:	Found 'DD'-anomaly for variable 'testCell' (lines '67'-'68').
+src/service/ServiceTest.java:68:	Found 'DD'-anomaly for variable 'testCell' (lines '68'-'69').
+src/service/ServiceTest.java:68:	Found 'DD'-anomaly for variable 'testCell' (lines '68'-'69').
+src/service/ServiceTest.java:69:	Found 'DD'-anomaly for variable 'testCell' (lines '69'-'70').
+src/service/ServiceTest.java:69:	Found 'DD'-anomaly for variable 'testCell' (lines '69'-'70').
+src/service/ServiceTest.java:70:	Found 'DU'-anomaly for variable 'testCell' (lines '70'-'82').
+src/service/ServiceTest.java:70:	Found 'DU'-anomaly for variable 'testCell' (lines '70'-'82').
+src/service/ServiceTest.java:80:	Avoid unnecessary comparisons in boolean expressions
+src/service/ServiceTest.java:80:	Avoid unnecessary comparisons in boolean expressions
+src/service/ServiceTest.java:80:	JUnit assertions should include a message
+src/service/ServiceTest.java:80:	JUnit assertions should include a message
+src/service/ServiceTest.java:80:	Use assertSame(x, y) instead of assertTrue(x==y), or assertNotSame(x,y) vs assertFalse(x==y)
+src/service/ServiceTest.java:80:	Use assertSame(x, y) instead of assertTrue(x==y), or assertNotSame(x,y) vs assertFalse(x==y)
+src/service/ServiceTest.java:84:	Use explicit scoping instead of the default package private level
+src/service/ServiceTest.java:84:	Use explicit scoping instead of the default package private level
+src/service/ServiceTest.java:85:	To avoid mistakes add a comment at the beginning of the testCountNumber method if you want a default access modifier
+src/service/ServiceTest.java:85:	To avoid mistakes add a comment at the beginning of the testCountNumber method if you want a default access modifier
+src/service/ServiceTest.java:85:	Unit tests should not contain more than 1 assert(s).
+src/service/ServiceTest.java:85:	Unit tests should not contain more than 1 assert(s).
+src/service/ServiceTest.java:87:	Local variable 'cells' could be declared final
+src/service/ServiceTest.java:87:	Local variable 'cells' could be declared final
+src/service/ServiceTest.java:88:	Avoid variables with short names like i
+src/service/ServiceTest.java:88:	Avoid variables with short names like i
+src/service/ServiceTest.java:88:	Avoid variables with short names like j
+src/service/ServiceTest.java:88:	Avoid variables with short names like j
+src/service/ServiceTest.java:88:	Use one line for each declaration, it enhances code readability.
+src/service/ServiceTest.java:88:	Use one line for each declaration, it enhances code readability.
+src/service/ServiceTest.java:92:	Avoid using if...else statements without curly braces
+src/service/ServiceTest.java:92:	Avoid using if...else statements without curly braces
+src/service/ServiceTest.java:92:	This statement should have braces
+src/service/ServiceTest.java:92:	This statement should have braces
+src/service/ServiceTest.java:94:	Avoid using if...else statements without curly braces
+src/service/ServiceTest.java:94:	Avoid using if...else statements without curly braces
+src/service/ServiceTest.java:94:	This statement should have braces
+src/service/ServiceTest.java:94:	This statement should have braces
+src/service/ServiceTest.java:97:	JUnit assertions should include a message
+src/service/ServiceTest.java:97:	JUnit assertions should include a message
+src/service/ServiceTest.java:99:	JUnit assertions should include a message
+src/service/ServiceTest.java:99:	JUnit assertions should include a message
